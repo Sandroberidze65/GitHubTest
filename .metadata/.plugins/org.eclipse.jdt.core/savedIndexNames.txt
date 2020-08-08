@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\Bero\Desktop\DevopsBasics-master\.metadata\.plugins\org.eclipse.jdt.core
+2582384556.index
+2872044937.index
+802760054.index
+3459026615.index
